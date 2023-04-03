@@ -12,7 +12,7 @@
 #### Setup
 
 1. Clone the project `https://github.com/Roopini-MN/StudySmarter-Task.git`
-2. Move to project folder  `$ cd Study_Task `
+2. Move to project folder  `$ cd StudySmarter-Task `
 3. Run `$ npm install` command on your terminal
 
 ### Tests execution
@@ -43,4 +43,8 @@ Execution Command for Firefox: ```npx cypress run --browser firefox --headed```
 * After test execution you can see report(index.html) under reports folder.
 
 #### Run Result: 
-![run result](cypress/screenshots/run.png)
+![run result](cypress/screenshots/result.png)
+
+
+#### Note: 
+* If you want to run all test cases multiple times then please change email address in data.json file, otherwise registration will faill(on new session)
