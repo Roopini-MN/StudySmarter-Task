@@ -1,0 +1,16 @@
+{
+    "email":"testuser5619@gmail.com",
+    "password":"Password@123",
+    "url":"https://demo.studysmarter-test.de/",
+    "homePageTitle":"Home - StudySmarter",
+    "libraryPageTitle":"Library - StudySmarter",
+    "studySetName":"AutomationTest",
+    "monthYear":"JUN 2023",
+    "date":"12",
+    "question":"Which is best automation tool for UI testing",
+    "answer":"Cypress",
+    "shareOption":"Private",
+    "registerUrl":"https://be.dev.studysmarter-test.de/users/",
+    "loginUrl":"https://be.dev.studysmarter-test.de/api-token-auth/",
+    "patchRequestUrl":"https://be.dev.studysmarter-test.de/users/"
+}

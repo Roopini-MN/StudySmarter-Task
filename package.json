@@ -1,0 +1,16 @@
+{
+  "name": "study_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:chrome": "cypress run --browser chrome --headed",
+    "cypress:firefox": "cypress run --browser firefox --headed"
+  },
+  "author": "Roopini",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.1.0",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
